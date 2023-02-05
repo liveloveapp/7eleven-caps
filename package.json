@@ -1,0 +1,24 @@
+{
+  "name": "7ELEVEn-CAPs",
+  "version": "0.0.1",
+  "description": "CAPITALIZe YOUr TEXt LIKe 7-ELEVEn",
+  "main": "./dist/index.js",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/liveloveapp/7eleven-caps"
+  },
+  "keywords": [
+    "7-ELEVEn",
+    "CAPs"
+  ],
+  "author": "Mike Ryan",
+  "license": "MIT"
+}
