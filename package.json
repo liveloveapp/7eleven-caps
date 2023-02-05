@@ -1,12 +1,19 @@
 {
   "name": "7eleven-caps",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CAPITALIZe YOUr TEXt LIKe 7-ELEVEn",
   "main": "./dist/index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "typescript": "^4.9.5"
   },
-  "devDependencies": {},
+  "files": [
+    "dist",
+    "src",
+    "LICENSE.md",
+    "README.md",
+    "package.json"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
