@@ -9,7 +9,7 @@ This TypeScript library exports a single function that will capitalize your stri
 ## Usage
 
 ```ts
-import CAPITALIZe from "7ELEVEn-CAPs";
+import CAPITALIZe from "7eleven-caps";
 
 const input = "this is a string";
 const output = CAPITALIZe(input);
